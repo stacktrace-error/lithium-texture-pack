@@ -1,0 +1,7 @@
+name: "lithium-pack"
+displayName: "Lithium Pack"
+author: "null/stacktrace-error"
+description: "Texture pack that mimics the style of an older iteration of Mindustry's logic system."
+version:0
+minGameVersion: 126
+hidden: true
